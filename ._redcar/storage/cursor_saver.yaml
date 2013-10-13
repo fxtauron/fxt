@@ -1,0 +1,9 @@
+--- 
+cursor_positions: 
+  - :path: config/routes.rb
+    :cursor_offset: 147
+    :timestamp: 2013-10-13 22:17:32.174000 +02:00
+  - :path: app/views/site/home.html.erb
+    :cursor_offset: 58
+    :timestamp: 2013-10-13 22:21:05.096000 +02:00
+files_to_retain: 0
